@@ -41,4 +41,5 @@ pip install -r requirements.txt
 - **Forecasting accuracy** demonstrated via Actual vs Predicted plots.
 
 ##  Author
+- **VTU24675**
 - **VTU30380**
